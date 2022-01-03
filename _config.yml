@@ -1,6 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          导航
+description:    "Hello."
 baseurl:        ""
 url:            "https://xn--fet810g.xn--rlr66kq0bdb82ag2i8t7cqge3n1g.cn/"
 
@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Control-and-Engineering
+  url:          https://孝陵卫皇家理工大学.cn
+  email:        m@njust.edu.cn
 
 # Build settings
 markdown:       kramdown
