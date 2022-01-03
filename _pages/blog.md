@@ -8,9 +8,9 @@ permalink: /blog/
 
 - [@effun](https://effun.xyz/)
 
+- [@RaeChim](https://raechim.xyz/)
 
-
-
+- [@xyMeng](https://xymeng.xyz/)
 
 
 

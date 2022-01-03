@@ -4,9 +4,6 @@ description:    "Hello."
 baseurl:        ""
 url:            "https://xn--fet810g.xn--rlr66kq0bdb82ag2i8t7cqge3n1g.cn/"
 
-# Google Analytics
-google_analytics: UA—XXXXXXXX-X
-
 # Author
 author:
   name:         Control-and-Engineering
@@ -37,5 +34,3 @@ paginate:       5
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
-# Disqus (Set to your disqus id)
-disqus:         jekyll-tale

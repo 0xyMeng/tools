@@ -2,17 +2,12 @@
 layout: default
 ---
 
-<br>
-
-<table bgcolor="#FFFFFF"><tr><td>
-    <input name=tn type=hidden value=baidu>
-    <a href="http://www.baidu.com/">
-        <img src="http://img.baidu.com/img/logo-80px.gif" alt="Baidu" align="bottom" border="0">
-    </a>
-    <input type=text name=word size=50>
-    <input type="submit" value="搜索">
-</td></tr>
-</table>
+- <a href="https://www.baidu.com/" target="_blank">Baidu</a>
+- <a href="https://www.google.com/" target="_blank">Google</a>
+- <a href="https://www.youtube.com/" target="_blank">YouTube</a>
+- <a href="https://www.bilibili.com/" target="_blank">bilibili</a>
+- <a href="https://github.com" target="_blank">GitHub</a>
+- <a href="https://sg1lib.org/" target="_blank">Z-Library</a>
 
 
 ### 校内链接
