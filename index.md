@@ -2,13 +2,16 @@
 layout: default
 ---
 
+### 常用网站
+
+
 - <a href="https://www.baidu.com/" target="_blank">Baidu</a>
 - <a href="https://www.google.com/" target="_blank">Google</a>
 - <a href="https://www.youtube.com/" target="_blank">YouTube</a>
 - <a href="https://www.bilibili.com/" target="_blank">bilibili</a>
 - <a href="https://github.com" target="_blank">GitHub</a>
 - <a href="https://sg1lib.org/" target="_blank">Z-Library</a>
-
+- <a href="https://课程.孝陵卫皇家理工大学.cn" target="_blank">课程资源</a>
 
 ### 校内链接
 - <a href="http://www.njust.edu.cn/" target="_blank">学校主页(新版)</a>
@@ -23,13 +26,10 @@ layout: default
 - <a href="http://gsmis.njust.edu.cn/" target="_blank">研究生教务登录</a>
 
 
-### 常用网站
-
-- <a href="https://课程.孝陵卫皇家理工大学.cn" target="_blank">课程资源</a>
-
-
 ### 网站内容建议
 
 m@njust.edu.cn
 
 <br>
+
+

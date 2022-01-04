@@ -36,8 +36,13 @@ h6 {
 }
 
 a {
-  color: $blue;
+  color: #cc00cc;
   text-decoration: none;
+}
+
+a:hover { 
+  color: #0099ff;
+  text-decoration: underline;
 }
 
 blockquote {
