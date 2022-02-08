@@ -10,7 +10,7 @@ permalink: /blog/
 
 - [@RaeChim](https://raechim.xyz/)
 
-- [@xyMeng](https://xymeng.xyz/)
+- [@xyMeng](https://xu.yumeng.website/)
 
 
 
